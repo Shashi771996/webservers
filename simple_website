@@ -1,0 +1,4 @@
+sudo apt update -y
+apt install nginx -y
+cd /var/www/html/
+echo </h1>Hello website is working here</h1> >> index.html
